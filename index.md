@@ -1,1 +1,2 @@
-Hello my friend!
+267 SGEC Church!
+![lamp](img/penard.jpg)
